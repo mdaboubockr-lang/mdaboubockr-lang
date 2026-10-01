@@ -70,6 +70,133 @@ hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
 
 ### Remote Tooling
 <img src="https://skillicons.dev/icons?i=github,vscode,postman"/>
-<br/>
+</div>
 
+## 💼 Engineering Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Platforms
+
+<br/>📅 Ongoing Projects
+
+- 🚀 Developed full-stack e-commerce solutions with product management, shopping cart, authentication, and order workflows
+
+- 🔗 Designed REST APIs and database schemas to support scalable business operations
+
+- 🗄️ Integrated MySQL databases with secure backend systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Learning Management Systems
+
+<br/>📅 Full-Stack Projects
+
+- 📚 Built LMS platforms featuring course management, student enrollment, and content delivery
+
+- 🔐 Implemented authentication and role-based access control
+
+- ⚡ Focused on responsive UI and efficient backend architecture
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Business Management Systems
+
+<br/>📅 Full-Stack Projects
+
+- 🏗️ Developed inventory and management systems with product tracking and reporting
+
+- 🔗 Built backend services and REST APIs for business workflows
+
+- 🗄️ Designed database structures for efficient data management and retrieval
+
+- ⚡ Focused on usability, performance, and maintainable architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Management & Productivity Systems
+
+<br/>📅 Full-Stack Projects
+
+- 📦 Built inventory management systems with product, supplier, and stock management
+
+- ✅ Developed task and workflow management applications with complete CRUD operations
+
+- 🔐 Implemented authentication, user management, and role-based access control
+
+- 🔗 Designed APIs and database structures to support real-world business requirements
+
+</td>
+
+</tr>
+
+</table>
+</table>
+
+---
+
+## 🎓 Education
+
+> **Secondary School Student (Class 7)**
+> Bangladesh
+> Passionate about software development, full-stack web applications, and continuous learning through hands-on projects.
+
+
+## ✨ How I Work
+
+<table>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🏗️ Project-driven learning</h3>
+
+<p>Most of my skills are developed through building real applications. I learn by creating, testing, breaking, and improving systems rather than following tutorials alone.</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🧩 Problem-first approach</h3>
+
+<p>I focus on understanding the problem before choosing the technology. Clear requirements and thoughtful planning lead to better solutions and cleaner code.</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🚀 End-to-end development</h3>
+
+<p>I enjoy working across the entire stack, from database design and backend APIs to responsive user interfaces, turning ideas into complete applications.</p>
+
+</td>
+
+</tr>
+
+</table>
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Website-Aboubockr.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:mdaboubockr@gamil.com"><img src="https://img.shields.io/badge/Gmail-mdaboubockr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-aboubockr-a4539136b/"><img src="https://img.shields.io/badge/LinkedIn-mdaboubockr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mdaboubockr-lang"><img src="https://img.shields.io/badge/GitHub-mdaboubockr-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:0066ff&height=120&section=footer&reversal=false"/>
 </div>
