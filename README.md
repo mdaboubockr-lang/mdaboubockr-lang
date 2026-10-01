@@ -46,4 +46,30 @@ open_to:     "Remote Senior / Staff Full-Stack or Technical Lead roles"
 hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
 ```
 
+## 🛠️ My Stack
 
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,mysql"/>
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,react"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap"/>
+
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,linux"/>
+
+### Remote Tooling
+<img src="https://skillicons.dev/icons?i=github,vscode,postman"/>
+<br/>
+
+</div>
