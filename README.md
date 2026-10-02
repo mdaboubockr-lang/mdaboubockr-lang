@@ -31,19 +31,16 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:        Md. Tausif Hossain
-role:        Founder · Technical Lead & Senior Software Engineer · Lead Instructor
-location:    🇧🇩 Narayanganj, Bangladesh (GMT+6)
+name:        Md. Aboubockr
+role:        Full-Stack Developer
+location:    🇧🇩 Dhaka, Bangladesh (GMT+6)
 timezone:    GMT+6  (overlap: 4h US-East · 6h EU · full APAC/MENA)
-homes:       TechnicalBind (Founder & Self-Employed, since 2017)
-             DevTechGuru (Technical Lead & Senior Software Engineer, since 2021)
-             Ostad (Lead Instructor, since 2025)
-education:   B.Sc. in Computer Science & Engineering, IUB
-focus:       Python · Django · TypeScript · React · Next.js · AWS · System Design
-domains:     [HealthTech, PropTech, Enterprise SaaS]
-ships_to:    [🇺🇸 US, 🇬🇧 UK, 🇨🇦 Canada, 🇩🇪 Germany, 🇦🇪 UAE, 🇸🇦 Saudi, 🇦🇺 Australia, 🇲🇾 Malaysia, 🇿🇦 South Africa]
-open_to:     "Remote Senior / Staff Full-Stack or Technical Lead roles"
-hobbies:     [📚 Reading, ✈️ Traveling, ⚽ FIFA with friends]
+homes:       Personal Projects Lab
+             Open Source
+             GitHub
+education:   Secondary School Student (Class 7), Bangladesh
+focus:       Python · Django · Django Rest Framework · React · JS · SQL 
+hobbies:     [📚 Reading, ✈️ Traveling, ⚽ MINECRAFT with friends]
 ```
 
 ## 🛠️ My Stack
