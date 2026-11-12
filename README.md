@@ -188,9 +188,9 @@ hobbies:     [📚 Reading, ✈️ Traveling, ⚽ MINECRAFT with friends]
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://tausif.bd"><img src="https://img.shields.io/badge/Website-Aboubockr.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://portfolio-beta-ashen-68.vercel.app/"><img src="https://img.shields.io/badge/Website-Aboubockr.dev-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:mdaboubockr@gamil.com"><img src="https://img.shields.io/badge/Gmail-mdaboubockr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-aboubockr-a4539136b/"><img src="https://img.shields.io/badge/LinkedIn-mdaboubockr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abu-bakkar-siddiq-a4539136b/"><img src="https://img.shields.io/badge/LinkedIn-mdaboubockr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mdaboubockr-lang"><img src="https://img.shields.io/badge/GitHub-mdaboubockr-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
